@@ -13,7 +13,6 @@ use CLADevs\Minion\Main;
 use jojoe77777\FormAPI\{FormAPI, SimpleForm, CustomForm};
 class MinionShop extends PluginBase implements Listener{
     public $config;
-    /* EDIT VALUE HERE! */
     public function onEnable(): void{
         foreach([
             "EconomyAPI" => "EconomyAPI",
@@ -49,7 +48,6 @@ class MinionShop extends PluginBase implements Listener{
     }
                 return true;
     }
-    /* MAIN FORM */
     public function mainForm(Player $player){
         $form = new SimpleForm(function(Player $player, int $data = null){
             if($data === null){
@@ -76,7 +74,6 @@ class MinionShop extends PluginBase implements Listener{
         $form->sendToPlayer($player);
         return $form;
     }
-    /* BUY FORM */
     public function buyMinionForm(Player $player){
         $form = new CustomForm(function (Player $player, ?array $data){
         if($data[1] === null){
@@ -107,7 +104,6 @@ class MinionShop extends PluginBase implements Listener{
         $form->sendToPlayer($player);
         return $form;
     }
-    /* SELL FORM */
     public function sellMinionForm(Player $player){
         $form = new CustomForm(function (Player $player, ?array $data){
         if($data[1] === null){
@@ -138,7 +134,6 @@ class MinionShop extends PluginBase implements Listener{
         $form->sendToPlayer($player);
         return $form;
     }
-    /* PRICE FORM */
     public function priceListForm(Player $player){
         $form = new SimpleForm(function(Player $player, int $data = null){
             if($data === null){

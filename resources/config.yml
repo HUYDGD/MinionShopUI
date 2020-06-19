@@ -1,0 +1,38 @@
+title: "§l§e<--- §fCửa Hàng Minion §e--->"
+
+
+prefix: "§e[§fMinionShop§e]"
+
+
+# Giá mua 1 con Minion.
+price: 100
+
+
+# Giá bán 1 con Minion.
+sell: 50
+
+
+# Số Minion tối đa mà người chơi có thể mua.
+amountBuyMinion: 100
+
+
+# Số Minion tối đa mà người chơi có thể bán.
+amountSellMinion: 100
+
+
+# Đây là nơi để bạn chỉnh sửa những tin nhắn loại lỗi, không đủ điều kiện đến người chơi.
+error-consoleSender: " §cVui lòng sử dụng lệnh trong game!"
+error-notEnoughMoney: " §cBạn không đủ tiền để mua Minion!"
+error-notFoundMinion: " §cKhông có đủ Minion trong túi đồ!"
+
+
+# Đây là nơi để bạn chỉnh sửa những tin nhắn loại thành công đến người chơi.
+success-boughtMinion: " §aĐã mua §f{amount} §acon Minion thành công!"
+success-deductionMoney: " §aĐã trừ §f{buy}$ §atừ tài khoản của bạn!"
+success-sellMinion: " §aĐã bán thành công §f{amount} §acon Minion"
+success-addMoney: " §aĐã cộng §f{sell}$ §avào tài khoản §f{player}§a."
+
+# {amount} > Số lượng Minion đã mua/bán.
+# {buy} > Số tiền bị trừ khi mua x Minion.
+# {sell} > Số tiền được cộng vào tài khoản khi bán x Minion.
+# {player} > Tên người chơi.

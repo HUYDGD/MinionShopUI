@@ -40,4 +40,8 @@
 - [ ] Người chơi có thể bán vật phẩm Nether Star thay vì Minion. **SẼ SỬA SAU**
 
 
+<a align="center"><img src="https://blog.hamtruyentranh.com/wp-content/uploads/2019/01/18_Re_born_DVD_1280x7.jpg"></a>
+**À nhầm.. Đây mới đúng :v**
+
+
 <a align="center"><img src="https://i.ibb.co/MhHXfv0/5cfe8140da67d-skyblock-hello.gif"></a>

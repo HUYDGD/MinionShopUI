@@ -2,7 +2,7 @@
 namespace MinionShop;
 
 use pocketmine\plugin\PluginBase;
-use pocketmine\command\{CommandSender, Command, CommandMap};
+use pocketmine\command\{Command, CommandMap};
 use pocketmine\utils\Config;
 
 use MinionShop\commands\MinionShopCommand;

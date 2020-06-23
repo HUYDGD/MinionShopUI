@@ -20,7 +20,7 @@
    - EconomyAPI
    - FormAPI
    - Minion
-#### Tất cả có thể được tải trên Poggit.
+#### Tất cả có thể được tải trên Poggit. (https://poggit.pmmp.io/)
 
 
 # Review cực mạnh

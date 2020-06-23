@@ -6,9 +6,3 @@ api: 3.0.1
 author: WolfTubeTM
 description: MinionShop plugin
 website: https://github.com/GamerSoiCon
-commands:
- minionshop:
-  aliases: [ms]
-  description: MinionShop command
-  usage: "Usage: /minionshop"
-  permission: minionshop.command

@@ -12,7 +12,7 @@ use pocketmine\plugin\Plugin;
 
 use onebone\economyapi\EconomyAPI;
 use CLADevs\Minion\Main;
-use jojoe77777\FormAPI\{FormAPI, SimpleForm, CustomForm};
+use jojoe77777\FormAPI\{FormAPI, SimpleForm, CustomForm}; // Form
 use MinionShop\MinionShop;
 
 class MinionShopCommand extends Command{

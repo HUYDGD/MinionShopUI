@@ -1,5 +1,5 @@
 # Đã cập nhật vào ngày: 30/6/2020.
-# Phiên bản: v1.0.1 (FR)
+# Phiên bản: v1.0.1 (FREE)
 <h1>MinionShopUI<img src="https://www.kindpng.com/picc/m/255-2556729_hypixel-skyblock-wiki-hypixel-skyblock-flower-minion-transparent.png" height="64" width="64" align="left"></img></h1>
 
 + Cửa hàng mua & bán Minion.

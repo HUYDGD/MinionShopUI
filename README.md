@@ -45,7 +45,16 @@
 
 
 <a align="center"><img src="https://i.ibb.co/MhHXfv0/5cfe8140da67d-skyblock-hello.gif"></a>
-## Đã cập nhật vào ngày: 30/6/2020.
-## Phiên bản: v1.0.1 (FREE)
-## Tải về: https://github.com/GamerSoiCon/MinionShopUI/releases
-```Mình đã ngừng phát triển plugin này!```
+
+# Làm thế nào để cài đặt ?
+1. Tải plugin từ đường link Releases ở bên dưới. (Chọn 1 trong 2 định dạng ZIP & PHAR để tải.)
+2. Copy và paste plugin vào thư mục '''plugins''' của server.
+3. Chạy lệnh '''stop''' trên CONSOLE và bật lại server.
+4. XONG!!!
+
+# Thông báo
+##### Đã cập nhật vào: 30/6/2020.
+##### Phiên bản: v1.0.1 (FREE VERSION)
+##### Tải về: https://github.com/GamerSoiCon/MinionShopUI/releases
+```Mình đã ngừng phát triển và cập nhật plugin này!```
+```Vì vậy, plugin này có thể gây lỗi cho server của bạn trong tương lai!```

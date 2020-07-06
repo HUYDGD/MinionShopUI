@@ -1,7 +1,3 @@
-## Đã cập nhật vào ngày: 30/6/2020.
-## Phiên bản: v1.0.1 (FREE)
-## Tải về: https://github.com/GamerSoiCon/MinionShopUI/releases
-```Mình đã ngừng phát triển plugin này!```
 <h1>MinionShopUI<img src="https://www.kindpng.com/picc/m/255-2556729_hypixel-skyblock-wiki-hypixel-skyblock-flower-minion-transparent.png" height="64" width="64" align="left"></img></h1>
 
 + Cửa hàng mua & bán Minion.
@@ -49,3 +45,7 @@
 
 
 <a align="center"><img src="https://i.ibb.co/MhHXfv0/5cfe8140da67d-skyblock-hello.gif"></a>
+## Đã cập nhật vào ngày: 30/6/2020.
+## Phiên bản: v1.0.1 (FREE)
+## Tải về: https://github.com/GamerSoiCon/MinionShopUI/releases
+```Mình đã ngừng phát triển plugin này!```

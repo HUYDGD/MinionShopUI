@@ -15,13 +15,6 @@
 + ```minionshop.command```:
    - Cho phép người chơi sử dụng /minionshop
 
-# Cài đặt
-+ Yêu cầu plugin:
-   - EconomyAPI
-   - FormAPI
-   - Minion
-#### Tất cả có thể được tải trên Poggit. (https://poggit.pmmp.io/)
-
 # Những tính năng khác trong tương lai
 - [ ] Nhận Minion miễn phí mỗi x ngày.
 - [ ] Thêm nút **MUA NHANH** -> Giúp việc mua Minion nhanh hơn.
@@ -42,6 +35,9 @@
 2. Copy và paste plugin vào thư mục ```plugins``` của server.
 3. Chạy lệnh ```stop``` trên CONSOLE và bật lại server.
 4. XONG!!!
+
+#### + Nhớ cài thêm ```EconomyAPI, FormAPI và Minion``` để MinionShop hoạt động trơn tru.
+#### Tất cả có thể được tải trên Poggit. (https://poggit.pmmp.io/)
 
 # Thông báo
 ##### Đã cập nhật vào: 30/6/2020.

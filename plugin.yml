@@ -1,6 +1,6 @@
 name: MinionShop
 main: MinionShop\MinionShop
-version: 1.0.1
+version: 1.0.2
 api: [3.1.0, 4.0.0]
 
 author: WolfTubeTM
